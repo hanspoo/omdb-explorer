@@ -20,8 +20,8 @@ La librería de componentes más popular para React.
 
 ### Instalación
 
-git clone xxx
-cd xxx
+git clone https://github.com/hanspoo/omdb-explorer
+cd omdb-explorer
 yarn install
 
 Para usarlo debes obtener tu APÎ KEY en http://www.omdbapi.com/apikey.aspx, antes de dar start definir la variable de entorno REACT_APP_OMDB_KEY.
